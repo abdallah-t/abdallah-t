@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @abdallah-t
-- 👀 I’m interested in Math and Coding
-- 🌱 I’m currently learning Python
-
-<!---
-abdallah-t/abdallah-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello
+this is just me doing something stupid (:
