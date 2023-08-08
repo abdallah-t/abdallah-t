@@ -29,8 +29,8 @@ I have always been fascinated by the beauty of mathematics and its applications.
 
 ## Let's Connect
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- GitHub: [github.com/yourusername](https://github.com/abbdallah-t)
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/abdallah-tantawy-510760280)
 - Twitter: [@yourusername](https://twitter.com/yourusername)
 
 Feel free to reach out to me if you share similar interests or if you have any exciting project ideas. I'm always open to collaboration and learning from others!
