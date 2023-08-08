@@ -11,14 +11,12 @@ I have always been fascinated by the beauty of mathematics and its applications.
 ## Skills
 
 - **Programming Languages:** Python
-- **Machine Learning:** TensorFlow, Scikit-learn
 - **Math Animation:** Manim
 - **Data Analysis:** Pandas, NumPy
 - **Version Control:** Git
 
 ## Projects
 
-- **Machine Learning with Python:** I have developed several machine learning projects using Python, including image classification and sentiment analysis.
 - **Math Animation with Manim:** I love creating math animations using Manim, a powerful mathematical animation engine developed by Grant Sanderson (3Blue1Brown).
 
 ## Interests
