@@ -1,7 +1,7 @@
 <meta name="google-site-verification" content="KKZ_14hcvWK4X88PtGpdeJD3f8q51HXjTG99DQu1WEQ" />
 
 <!-- hello -->
-<h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1 align="center">Hey, What's up?</h1>
 <h2 align="left">My Name is Abdullah Tantawy and I'm a Developer from Egypt</h2>
 
 <!--React and amplify is next  -->
@@ -39,3 +39,5 @@
   </a>
 </p>
 
+<hr>
+<h2><h2/>
