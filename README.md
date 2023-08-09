@@ -5,9 +5,8 @@
 <h2 align="left">My Name is Abdullah Tantawy and I'm a Developer from Egypt</h2>
 
 <!--React and amplify is next  -->
-<img align="right" height="150" src="https://bit.ly/3G6Pin0" />
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
@@ -21,16 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" width="42" alt="matlab logo" />
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/abdallah-tantawy-510760280/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://stackoverflow.com/users/22363839/abdallah-tantawy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
-  </a>
-  <a href="https://wa.me/97335042486?text=Hello%20Abdullah Tantawy,%20" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
-  </a>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
