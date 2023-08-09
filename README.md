@@ -26,6 +26,8 @@
   </a>
   <a href="https://stackoverflow.com/users/22363839/abdallah-tantawy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
+  <a href="https://replit.com/@abdallah-t" target="_blank">
+    <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" height="35" width="100" alt="stackoverflow logo" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
