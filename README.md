@@ -13,11 +13,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo" />
+  <img src="https://static-00.iconduck.com/assets.00/github-icon-256x249-eb1fu3cu.png" height="30" width="30" alt="github logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" width="42" alt="vim logo" />
-  <img src="https://www.manim.community/logo.svg" height="40" width="56" alt="manim logo" />
+  <img src="./imeges/manim-logo-sidebar.svg" height="40" width="56" alt="manim logo" />
 </div>
 
 <div align="center">
@@ -38,3 +38,4 @@
     <img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-t&langs_count=10&theme=react&border_color=61dafb&hide_border=true&layout=compact" />
   </a>
 </p>
+
