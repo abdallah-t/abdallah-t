@@ -40,4 +40,4 @@
 </p>
 
 <hr>
-<h2><h2/>
+<h2 align="center">💥about me💥<h2/>
