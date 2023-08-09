@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" width="42" alt="vim logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" width="42" alt="matlab logo" />
+  <img src="https://www.manim.community/logo.svg" height="40" width="56" alt="manim logo" />
 </div>
 
 <div align="center">
