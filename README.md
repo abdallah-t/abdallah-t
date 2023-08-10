@@ -2,7 +2,7 @@
 
 <!-- hello -->
 <h1 align="center">Hey, What's up?</h1>
-<h2 align="left">My Name is Abdullah Tantawy and I'm a Developer from Egypt</h2>
+<h2 align="center">My Name is Abdullah Tantawy and I'm a Developer from Egypt</h2>
 
 <!--React and amplify is next  -->
 
@@ -39,7 +39,16 @@
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-t&langs_count=10&theme=react&border_color=61dafb&hide_border=true&layout=compact" />
   </a>
+  <div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=abdallah-t&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3"
+    height="250"
+    align="center"
+    alt="streak graph"
+  />
+</div>
 </p>
 
 <hr>
-<h2 align="center">💥about me💥<h2/>
+<h2 align="center">💥 about me 💥</h2>
+<p style="font-size: 14px;">Welcome to my Github profile! I'm Abdullah Tantawy, an 18-year-old recent high school graduate with a strong passion for programming, math, and problem-solving. I have dedicated myself to learning and honing my skills in various programming languages, particularly Python and C++. I'm also knowledgeable in testing and automation, and I enjoy creating math animations using the Manim library.</p>
