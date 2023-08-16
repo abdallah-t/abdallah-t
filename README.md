@@ -2,7 +2,7 @@
 
 <!-- hello -->
 <h1 align="center">Hey, What's up?</h1>
-<h2 align="center">My Name is Abdullah Tantawy and I'm a Developer from Egypt</h2>
+<h2 align="center">My Name is Abdullah Tantawy and I'm a Developer</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdallah-t&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-t profile views" /> </p>
 
 
