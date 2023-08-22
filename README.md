@@ -56,4 +56,4 @@
 
 <hr>
 <h2 align="center">💥 about me 💥</h2>
-<p style="font-size: 14px;">Welcome to my Github profile! I'm Abdullah Tantawy, an 18-year-old recent high school graduate with a strong passion for programming, math, and problem-solving. I have dedicated myself to learning and honing my skills in various programming languages, particularly Python and C++. I'm also knowledgeable in testing and automation, and I enjoy creating math animations using the Manim library.</p>
+<p style="font-size: 14px;">Highly motivated and self-taught individual with a passion for continuous learning. Proficient in Python programming and web development, with a keen aptitude for video editing. Experienced in providing effective math tutoring. Committed, hardworking, and driven to excel in diverse challenges, embodying a strong work ethic and love for personal and professional growth.</p>
