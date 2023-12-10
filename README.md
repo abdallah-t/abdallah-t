@@ -1,8 +1,8 @@
 <meta name="google-site-verification" content="KKZ_14hcvWK4X88PtGpdeJD3f8q51HXjTG99DQu1WEQ" />
 
 <!-- hello -->
-<h1 align="center">Hey, What's up?</h1>
-<h2 align="center">My Name is Abdullah Tantawy and I'm a Developer</h2>
+<h1 align="center">Ayo, What's good?</h1>
+<h2 align="center">My name is Abdallah Tantawy and I do stuff</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdallah-t&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-t profile views" /> </p>
 
 
